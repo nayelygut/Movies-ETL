@@ -4,4 +4,4 @@ The goal of this project was to clean movie data from wikipedia and kaggle, merg
 
 After cleaning and merging movie data, 6,052 different movies were part of the list.
 
-! ['Resources/movies_query.png']
+![](Resources/movies_query.png)
